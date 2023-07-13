@@ -66,7 +66,7 @@ export const fetchAllProjects = (
 
 	return makeGraphQLRequest(projectsQuery, { category, endcursor });
 };
-//
+/////
 export const createNewProject = async (
 	form: ProjectForm,
 	creatorId: string,
