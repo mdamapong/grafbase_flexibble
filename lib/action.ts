@@ -1,6 +1,6 @@
 /** @format */
 
-"use server";
+"use client";
 
 import { GraphQLClient } from "graphql-request";
 
